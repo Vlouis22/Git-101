@@ -145,4 +145,4 @@ To get changes from another developer on your team after they have pushed code t
 
 ## Practicing Git
 
-Head over to the [practicing Git activity](practicing-Git.md) to give all these commands a shot!
+Head over to the [practicing Git activity](practicing-git.md) to give all these commands a shot!
